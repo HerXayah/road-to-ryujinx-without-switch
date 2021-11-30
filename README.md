@@ -51,8 +51,8 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
    <br>
    ![Keys](Imgs/Keys.gif)
 
-   The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\
-   Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
+   The next step is to install a Firmware that can be found on [lewd.wtf](https://hel1-1.mirror.lewd.wtf/archive/nintendo/switch/firmware/)\
+   Download the Firmware you want and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
    
    
    ### Shader Caches
