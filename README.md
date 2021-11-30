@@ -1,5 +1,8 @@
 # road-to-ryujinx-without-switch
 
+My continuation of this but WITHOUT any Piracy. Really.
+No Hidden Shit. Its not Priacy. If you use this as reference feel free to link this somwhere or in a pinned commend or smth.
+
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fpoolpartyakali)](https://twitter.com/PoolPartyAkali)
 
    * [Introduction](#introduction)
@@ -48,7 +51,7 @@
    <br>
    ![Keys](Imgs/Keys.gif)
 
-   The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\n
+   The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\
    Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
    
    
