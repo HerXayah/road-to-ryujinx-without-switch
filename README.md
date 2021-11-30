@@ -30,7 +30,7 @@
    Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
    Add your Ryujinx Folder and have Fun Exploring\
    <br>
-   [EmuSack](Imgs/EmuSAck.gif)
+   ![EmuSack](Imgs/EmuSAck.gif)
 
    ## Manual-Setup
 
@@ -58,7 +58,7 @@
    This is for the People who want a *Lag* Free Experience\
    Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
    <br>
-   [EmuSack](Imgs/EmuSAck.gif)
+   ![EmuSack](Imgs/EmuSAck.gif)
 
 
 
