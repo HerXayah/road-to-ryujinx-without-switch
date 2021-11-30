@@ -4,11 +4,13 @@
 
    * [Introduction](#introduction)
    * [Guide](#guide)
-   * [ryujinx&nbsp;Setup](#setup)
-   * [Needed&nbsp;Files](#files)
+   * [Emusak](#emusak)
+   * [Manual](#manual-setup)
+      * [ryujinx&nbsp;Setup](#setup)
+      * [Needed&nbsp;Files](#files)
+      * [Mods/Patches](#addons)
    * [Settings](#settings)
    * [Games](#games)
-   * [Mods/Patches](#addons)
    * [Mentions](#mentions)
    * [Goodbye](#goodbye)
 
@@ -22,35 +24,7 @@
 
    # Guide
 
-   ## Manual
-
-   ### Setup
-
-   Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build.\
-   <br>
-   ![Download](Imgs/Download.gif)
-
-   Then open the file you downloaded in a Program like 7Zip or Winrar and extract it to a folder of your choice.\
-   <br>
-   ![Extract](Imgs/Extract.gif)
-   
-   Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
-   Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
-   <br>
-   ![Keys](Imgs/Keys.gif)
-
-   The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\n
-   Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
-   
-   
-   ### Shader Caches
-
-   This is for the People who want a *Lag* Free Experience\
-   Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
-   <br>
-   [EmuSack](Imgs/EmuSAck.gif)
-
-   ## Emusak Road
+   ## Emusak
 
    This is for the People who want a *Lag* Free Experience\
    Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
@@ -58,21 +32,48 @@
    <br>
    [EmuSack](Imgs/EmuSAck.gif)
 
+   ## Manual-Setup
 
-   ### Mods
+      ## Setup
 
-   To install Mods just get some Mods from [Yuzu Website (Bleh)](https://yuzu-emu.org/wiki/switch-mods/) or from [GBATemp](https://gbatemp.net/forums/nintendo-switch.283/).\
-   Open the ZIP and extract it with the same hierarchy like me here.\
-   <br>
-   ![Mods](Imgs/Mods.gif)
+      Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build.\
+      <br>
+      ![Download](Imgs/Download.gif)
 
-   ### Settings
+      Then open the file you downloaded in a Program like 7Zip or Winrar and extract it to a folder of your choice.\
+      <br>
+      ![Extract](Imgs/Extract.gif)
+   
+      Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
+      Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
+      <br>
+      ![Keys](Imgs/Keys.gif)
+
+      The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\n
+      Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
+   
+   
+      ## Shader Caches
+
+      This is for the People who want a *Lag* Free Experience\
+      Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
+      <br>
+      [EmuSack](Imgs/EmuSAck.gif)
+
+      ## Mods
+
+      To install Mods just get some Mods from [Yuzu Website (Bleh)](https://yuzu-emu.org/wiki/switch-mods/) or from [GBATemp](https://gbatemp.net/forums/nintendo-switch.283/).\
+      Open the ZIP and extract it with the same hierarchy like me here.\
+      <br>
+      ![Mods](Imgs/Mods.gif)
+
+   ## Settings
 
    Heres the settings i use\
    <br>
    ![Settings](Imgs/Settings.gif)
 
-   ### Games
+   ## Games
 
    ``I found a very good guide that can be found here./ Sorry, I just don't have a Homebrewed Switch to try it atm./ When you have the XCI, load the Game via Settings -> Game Directories``
 
