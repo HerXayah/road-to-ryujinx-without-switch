@@ -7,7 +7,6 @@
    * [Emusak](#emusak)
    * [Manual](#manual-setup)
       * [ryujinx&nbsp;Setup](#setup)
-      * [Needed&nbsp;Files](#files)
       * [Mods/Patches](#addons)
    * [Settings](#settings)
    * [Games](#games)
