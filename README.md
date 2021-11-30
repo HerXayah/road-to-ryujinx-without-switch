@@ -80,7 +80,9 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
 
    ## Games
 
-   ``I found a very good guide that can be found here.\ Sorry, I just don't have a Homebrewed Switch to try it atm.\ When you have the XCI, load the Game via Settings -> Game Directories``\
+   ``I found a very good guide that can be found here.\ 
+   Sorry, I just don't have a Homebrewed Switch to try it atm.\ 
+   When you have the XCI, load the Game via `Settings -> Game Directories`.\
 
    ### Mentios
 
