@@ -21,7 +21,7 @@
    * [Mentions](#mentions)
    * [Goodbye](#goodbye)
 
-    # Introduction
+   # Introduction
 
     Sup people,
     after many years (2. Im fucking old now send help.) i decided to make this Guide for Ryujinx too.
@@ -29,9 +29,9 @@
     Most will look copied and im recording this while im writing this for the ASMR Keyboard People here. (Or if your generally interested on how i work on this lol)
     This from the Code basis may look like the [Switch Repo](https://github.com/PrincessAkira/road-to-yuzu-without-switch), which indeed it is. Why re-invent the wheel?
 
-    # Guide
+   # Guide
 
-    ## Setup
+   ## Setup
 
     Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build. 
     ![Download](Imgs/Download.gif)
