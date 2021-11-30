@@ -34,38 +34,41 @@
 
    ## Manual-Setup
 
-      ## Setup
+   ### Setup
 
-      Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build.\
-      <br>
-      ![Download](Imgs/Download.gif)
+   Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build.\
+   <br>
+   ![Download](Imgs/Download.gif)
 
-      Then open the file you downloaded in a Program like 7Zip or Winrar and extract it to a folder of your choice.\
-      <br>
-      ![Extract](Imgs/Extract.gif)
+   Then open the file you downloaded in a Program like 7Zip or Winrar and extract it to a folder of your choice.\
+   <br>
+   ![Extract](Imgs/Extract.gif)
    
-      Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
-      Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
-      <br>
-      ![Keys](Imgs/Keys.gif)
+   Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
+   Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
+   <br>
+   ![Keys](Imgs/Keys.gif)
 
-      The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\n
-      Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
+   The next step is to install a Firmware that can be found on [Darthsternie](https://darthsternie.net/switch-firmwares/)\n
+   Download it and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
    
    
-      ## Shader Caches
+   ### Shader Caches
 
-      This is for the People who want a *Lag* Free Experience\
-      Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
-      <br>
-      [EmuSack](Imgs/EmuSAck.gif)
+   This is for the People who want a *Lag* Free Experience\
+   Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
+   <br>
+   [EmuSack](Imgs/EmuSAck.gif)
 
-      ## Mods
 
-      To install Mods just get some Mods from [Yuzu Website (Bleh)](https://yuzu-emu.org/wiki/switch-mods/) or from [GBATemp](https://gbatemp.net/forums/nintendo-switch.283/).\
-      Open the ZIP and extract it with the same hierarchy like me here.\
-      <br>
-      ![Mods](Imgs/Mods.gif)
+
+
+   ## Mods
+
+   To install Mods just get some Mods from [Yuzu Website (Bleh)](https://yuzu-emu.org/wiki/switch-mods/) or from [GBATemp](https://gbatemp.net/forums/nintendo-switch.283/).\
+   Open the ZIP and extract it with the same hierarchy like me here.\
+   <br>
+   ![Mods](Imgs/Mods.gif)
 
    ## Settings
 
