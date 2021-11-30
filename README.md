@@ -24,10 +24,10 @@
    # Introduction
 
    Sup people,
-   after many years (2. Im fucking old now send help.) i decided to make this Guide for Ryujinx too.
-   Had this Idea sitting in my head for some time now, so i thought why not just do it now.
-   Most will look copied and im recording this while im writing this for the ASMR Keyboard People here. (Or if your generally interested on how i work on this lol)
-   This from the Code basis may look like the [Switch Repo](https://github.com/PrincessAkira/road-to-yuzu-without-switch), which indeed it is. Why re-invent the wheel?
+   after many years (2. Im fucking old now send help.) i decided to make this Guide for Ryujinx too.\
+   Had this Idea sitting in my head for some time now, so i thought why not just do it now.\
+   Most will look copied and im recording this while im writing this for the ASMR Keyboard People here. (Or if your generally interested on how i work on this lol)\
+   This from the Code basis may look like the [Switch Repo](https://github.com/PrincessAkira/road-to-yuzu-without-switch), which indeed it is. Why re-invent the wheel?\
 
    # Guide
 
