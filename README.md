@@ -34,13 +34,16 @@
    ## Setup
 
    Go to the [Rujinx Site](https://ryujinx.org/download) and Download the Build.\
+   <br>
    ![Download](Imgs/Download.gif)\
 
    Then open the file you downloaded in a Program like 7Zip or Winrar and extract it to a folder of your choice.\
+   <br>
    ![Extract](Imgs/Extract.gif)\
    
    Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
    Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
+   <br>
    ![Keys](Imgs/Keys.gif)\
 
 
