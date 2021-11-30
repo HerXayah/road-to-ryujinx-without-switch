@@ -10,7 +10,7 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
    * [Emusak](#emusak)
    * [Manual](#manual-setup)
       * [ryujinx&nbsp;Setup](#setup)
-      * [Mods/Patches](#addons)
+      * [Mods/Patches](#mods)
    * [Settings](#settings)
    * [Games](#games)
    * [Mentions](#mentions)
@@ -84,7 +84,7 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
    Sorry, I just don't have a Homebrewed Switch to try it atm.
    When you have the XCI, load the Game via `Settings -> Game Directories`.
 
-   ### Mentios
+   ### Mentions
 
    Myself because im so fucking cute. lol
 
