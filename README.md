@@ -51,7 +51,7 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
    <br>
    ![Keys](Imgs/Keys.gif)
 
-   The next step is to install a Firmware that can be found on [lewd.wtf](https://hel1-1.mirror.lewd.wtf/archive/nintendo/switch/firmware/)\
+   The next step is to install a Firmware that can be found on [lewd.wtf](https://mirror.lewd.wtf/archive/nintendo/switch/firmware/)\
    Download the Firmware you want and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
    
    
@@ -80,7 +80,7 @@ No Hidden Shit. Its not Priacy. If you use this as reference feel free to link t
 
    ## Games
 
-   I found a very good guide that can be found [here](https://suchmememanyskill.github.io/guides/switchdumpguide/).
+   I found a very good guide that can be found [here](https://rentry.co/SwitchHackingIsEasy/).
    Sorry, I just don't have a Homebrewed Switch to try it atm.
    When you have the XCI, load the Game via `Settings -> Game Directories`.
 
