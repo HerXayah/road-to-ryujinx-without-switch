@@ -38,23 +38,12 @@ No Hidden Shit. Its not Piracy. If you use this as reference feel free to link t
    ![Extract](Imgs/Extract.gif)
    
    Open your Ryujinx and Navigate to `File -> Open Ryujinx Folder`\
-   Then grab the latest prod.keys from your source of trust and paste them into the System Folder\
+   Then grab the latest prod.keys from your [source of trust](https://rentry.org/128bbkeys) and paste them into the System Folder\
    <br>
    ![Keys](Imgs/Keys.gif)
 
    The next step is to install a Firmware that can be found on [darthsternie](https://darthsternie.net/switch-firmwares/)\
    Download the Firmware you want and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
-   
-   
-   ### Shader Caches
-
-   This is for the People who want a *Lag* Free Experience\
-   Download [Emusak (made by cool people i heard :3)](https://github.com/CapitaineJSparrow/emusak-ui/releases)\
-   <br>
-   ![EmuSack](Imgs/EmuSack.gif)
-
-
-
 
    ## Mods
 
@@ -74,6 +63,7 @@ No Hidden Shit. Its not Piracy. If you use this as reference feel free to link t
    I found a very good guide that can be found [here](https://rentry.co/SwitchHackingIsEasy/).
    Sorry, I just don't have a Homebrewed Switch to try it atm.
    When you have the XCI, load the Game via `Settings -> Game Directories`.
+   If you are interested to get games, because i cant stop you from pirating, atleast get them from [nsw2u](https://nsw2u.net/)
 
    ### Mentions
 
