@@ -7,7 +7,6 @@ No Hidden Shit. Its not Piracy. If you use this as reference feel free to link t
 
    * [Introduction](#introduction)
    * [Guide](#guide)
-   * [RyuSAK](#ryusak)
    * [Manual](#manual-setup)
       * [ryujinx&nbsp;Setup](#setup)
       * [Mods/Patches](#mods)
@@ -25,15 +24,7 @@ No Hidden Shit. Its not Piracy. If you use this as reference feel free to link t
    This from the Code basis may look like the [Switch Repo](https://github.com/PrincessAkira/road-to-yuzu-without-switch), which indeed it is. Why re-invent the wheel?
 
    # Guide
-
-   ## RyuSAK
-
-   This is for the People who want a *Lag* Free Experience\
-   Download [Emusak (made by cool people i heard :3)](https://github.com/Ecks1337/RyuSAK/releases)\
-   Add your Ryujinx Folder and have Fun Exploring\
-   <br>
-   ![EmuSack](Imgs/EmuSack.gif)
-
+   
    ## Manual-Setup
 
    ### Setup
