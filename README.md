@@ -42,7 +42,7 @@ No Hidden Shit. Its not Piracy. If you use this as reference feel free to link t
    <br>
    ![Keys](Imgs/Keys.gif)
 
-   The next step is to install a Firmware that can be found on [lewd.wtf](https://mirror.lewd.wtf/archive/nintendo/switch/firmware/)\
+   The next step is to install a Firmware that can be found on [darthsternie](https://darthsternie.net/switch-firmwares/)\
    Download the Firmware you want and then navigate to Ryujinx's `Tools -> Install Firmware -> Select Downloaded ZIP` 
    
    
