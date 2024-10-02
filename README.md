@@ -1,5 +1,7 @@
 # road-to-ryujinx-without-switch
 
+# RIP PEEPS 😭
+
 My continuation of this from *bleh-zu* but WITHOUT any Piracy. Really.
 No Hidden Shit. If you use this as reference feel free to link this somwhere or in a pinned commend or smth.
 Basically the only Switch Emulator Guide you need
