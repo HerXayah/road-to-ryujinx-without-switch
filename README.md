@@ -6,7 +6,7 @@ My continuation of this from *bleh-zu* but WITHOUT any Piracy. Really.
 No Hidden Shit. If you use this as reference feel free to link this somwhere or in a pinned commend or smth.
 Basically the only Switch Emulator Guide you need
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fpoolpartyakali)](https://twitter.com/PoolPartyAkali)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fherxayah)](https://twitter.com/HerXayah)
 
    * [Introduction](#introduction)
    * [Guide](#guide)
