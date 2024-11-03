@@ -1,6 +1,6 @@
 # road-to-ryujinx-without-switch
 
-# RIP PEEPS 😭
+# WE ARE BACK https://github.com/GreemDev/Ryujinx
 
 My continuation of this from *bleh-zu* but WITHOUT any Piracy. Really.
 No Hidden Shit. If you use this as reference feel free to link this somwhere or in a pinned commend or smth.
